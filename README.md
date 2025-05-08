@@ -1,5 +1,9 @@
 # Python SnakeGame
 
+![Zrzut ekranu](assets/1.PNG)
+![Zrzut ekranu](assets/2.PNG)
+![Zrzut ekranu](assets/3.PNG)
+
 <h4> Instrukcja uruchomienia: </h4>
 
 Po sklonowaniu repozytorium z linku:
